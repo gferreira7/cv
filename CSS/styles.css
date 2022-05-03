@@ -147,3 +147,7 @@ hr{
    border-width: 10px;
    width: 7%;
 }
+
+.img {
+  border-radius: 0;
+}
